@@ -378,13 +378,13 @@ const Events = () => {
               Stay informed, stay prepared, and give your best.
             </p>
 
-            <ax
+            <a
               href="/rulebook.pdf"
               download="Pragyatha'25_Rulebook.pdf"
               className="inline-block px-6 py-3 rounded-full bg-cyan-400/20 border border-cyan-400/50 text-cyan-300 font-semibold tracking-wider hover:bg-cyan-400 hover:text-black transition-all duration-300"
             >
               Download the Rulebook
-            </ax>
+            </a>
           </div>
         </div>
       </div>
